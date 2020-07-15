@@ -1,4 +1,4 @@
-# Aplicação GoBarber
+# Projeto GoBarber
 Aplicação para agendamento de serviços de barbeiro
 
 * [GoBarber](https://github.com/felipeapellegrini/gobarber-project/blob/master/README.md#aplica%C3%A7%C3%A3o-gobarber)
