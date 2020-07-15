@@ -1,6 +1,10 @@
 # Aplicação GoBarber
 Aplicação para agendamento de serviços de barbeiro
-[Usabilidade](https://github.com/felipeapellegrini/gobarber-project/blob/master/README.md#usabilidade)
+
+* [GoBarber](https://github.com/felipeapellegrini/gobarber-project/blob/master/README.md#aplica%C3%A7%C3%A3o-gobarber)
+   * [Usabilidade](https://github.com/felipeapellegrini/gobarber-project/blob/master/README.md#usabilidade)
+   * [Tecnologias](https://github.com/felipeapellegrini/gobarber-project/blob/master/README.md#tecnologias)
+   * [Repositórios](https://github.com/felipeapellegrini/gobarber-project/blob/master/README.md#repositórios)
 
 # Usabilidade
 Nesta aplicação você pode criar sua conta, inserir uma foto e agendar um horário.
@@ -10,6 +14,7 @@ Futuramente, você poderá atualizar seu perfil para oferecer serviços também.
 * [React](https://pt-br.reactjs.org/): Utilizado para construir o front-end web.
 * [React-Native](https://reactnative.dev/docs/getting-started): Utilizado para construir o mobile.
 * [Node-JS](https://nodejs.org/en/about/): Utilizado para construir o backend.
+* [TypeScript](https://www.typescriptlang.org/): Liguagem utilizada para todo o desenvolvimento.
 
 # Repositórios
 * [Backend](https://github.com/felipeapellegrini/back-end-gobarber): Aqui está o repositório do back-end
