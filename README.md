@@ -1,5 +1,6 @@
 # Aplicação GoBarber
 Aplicação para agendamento de serviços de barbeiro
+[Usabilidade](https://github.com/felipeapellegrini/gobarber-project/blob/master/README.md#usabilidade)
 
 # Usabilidade
 Nesta aplicação você pode criar sua conta, inserir uma foto e agendar um horário.
